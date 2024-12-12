@@ -1,0 +1,7 @@
+*.local
+functions/key.json
+key.json
+.DS_Store
+*.log
+functions/lib/
+functions/venv/

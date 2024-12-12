@@ -1,0 +1,5 @@
+Flask==3.1.0
+firebase-admin==6.2.0
+firebase-functions==0.4.2
+functions-framework==3.0.0
+pydantic==1.10.19
